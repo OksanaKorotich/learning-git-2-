@@ -1,0 +1,9 @@
+body, pre {
+    font-family: 'Caveat', cursive;
+}
+p {
+    font-style: italic;
+}
+h1, p {
+    margin-left: 32px;
+}
