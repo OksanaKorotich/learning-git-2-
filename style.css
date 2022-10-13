@@ -7,3 +7,6 @@ p {
 h1, p {
     margin-left: 32px;
 }
+p {
+    color: rgb(94, 5, 5);
+}
